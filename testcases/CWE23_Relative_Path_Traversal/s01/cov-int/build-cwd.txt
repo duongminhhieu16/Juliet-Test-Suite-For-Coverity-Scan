@@ -1,0 +1,1 @@
+C:\Users\ADMIN\Desktop\ST\C\testcases\CWE23_Relative_Path_Traversal\s01

@@ -1,0 +1,1 @@
+C:\Users\ADMIN\Desktop\ST\C\testcases\CWE15_External_Control_of_System_or_Configuration_Setting

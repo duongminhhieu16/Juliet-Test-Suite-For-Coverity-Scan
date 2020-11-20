@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{911E67C6-3D85-4FCE-B560-20A9C3E3FF48}") = "CWE15", "CWE15.exe", "{68DF2512-CAF1-4E61-9FD3-F0EDF9165E19}"
+	ProjectSection(DebuggerProjectSystem) = preProject
+		PortSupplier = 00000000-0000-0000-0000-000000000000
+		Executable = C:\Users\ADMIN\Desktop\ST\C\testcases\CWE15_External_Control_of_System_or_Configuration_Setting\CWE15.exe
+		RemoteMachine = DESKTOP-SMIF49H
+		StartingDirectory = C:\Users\ADMIN\Desktop\ST\C\testcases\CWE15_External_Control_of_System_or_Configuration_Setting
+		Environment = Default
+		LaunchingEngine = 00000000-0000-0000-0000-000000000000
+		UseLegacyDebugEngines = No
+		LaunchSQLEngine = No
+		AttachLaunchAction = No
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68DF2512-CAF1-4E61-9FD3-F0EDF9165E19}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B83424D6-D070-48EE-BF87-F5FE4CC47FEB}
+	EndGlobalSection
+EndGlobal
